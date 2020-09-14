@@ -1,0 +1,8 @@
+In this Practical we will be creating the Telegram Bot using python and the telepot package.
+
+Steps:
+
+1] Go to botFather in telegram app/web and create a bot.
+2] Then from it you will get a unique token id.
+3] Add it to your code as given in PRAC1.py.
+4] You will get an output in python IDLE.
